@@ -10,6 +10,7 @@
 *
 * Author: Bharadwaaj RA
 * Email: bhaaradwaaj@gmail.com
+* Git_Link: https://github.com/bharadwaaj/pwm-sine-table-generation
 * Date: 10-JAN-12
 *
 * Note: This software is given under GPL with no warrenty in any form. Feel free report the bug to the author.
