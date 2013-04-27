@@ -50,9 +50,9 @@ int main()
 	printf("Enter the carrier freqency:");
 	scanf("%ld",&carrier_freq);
 	printf("Enter the sinewave frequency:");
-	scanf("%d",&sine_wave_freq)
+	scanf("%d",&sinewave_freq);
 	
-	step_val = 360/(carrier_freq/(sine_wave_freq*2));
+	step_val = 360/(carrier_freq/(sinewave_freq*2));
 
 	printf("Enter the Min_value_counter:");
 	scanf("%d",&start_count);
